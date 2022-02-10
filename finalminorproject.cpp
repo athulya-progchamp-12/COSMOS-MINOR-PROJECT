@@ -42,7 +42,7 @@ int main(){
        break;
 
    default:
-      cout<< "Sorry!! Something Went Wrong";
+      cout<< "Sorry!! Error occurred";
       break;
 
    }
