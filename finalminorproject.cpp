@@ -7,7 +7,7 @@ int main(){
     
     char z;
 
-    cout<<"----------SIMPLE CALCULATOR----------"<<endl;
+    cout<<"----------SIMPLE CALCULATOR BY COSMOS----------"<<endl;
 
     cout<<" Enter any two numbers = ";
 
